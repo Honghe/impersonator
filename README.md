@@ -22,6 +22,9 @@ Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance T
     <img src='assets/visuals/novel/novel_3.gif' width="135"/>
 </p>
 
+## Docker build and run
+See [README_Docker.md](./README_Docker.md)
+
 ## Update News
 - [x] 10/05/2019, optimize the minimal requirements of GPU memory (at least `3.8GB` available).
 
